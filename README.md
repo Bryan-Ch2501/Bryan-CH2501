@@ -1,5 +1,5 @@
 <h1 align="center">Hola , Soy Bryan Chavarría <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
-<p><img align="right" src="https://github.com/Bryan-Ch2501/Animaciones-e-iconos/animation_500_kxa883sd.gif" alt="Bryan-Ch2501" /></p>
+<p><img align="right" src="https://github.com/Bryan-Ch2501/Animaciones-e-iconos/blob/main/animation_500_kxa883sd.gif" alt="Bryan-Ch2501" /></p>
 
 <br>
 
@@ -9,7 +9,7 @@
 
 <br>
 
-## Hola, soy Bryan 👋
+## Sobre mi 👨‍💻
 
 - 🌱 Actualmente estoy aprendiendo desarrollo de aplicaciones móviles con lenguajes como **C#**, **Python**, **SQL** y frameworks como **WPF** y **WinUI**.
 - 🚀 Mi aspiración es convertirme en un experto en **Ciberseguridad**, un **Analista de Datos** o un **Desarrollador de Escritorio**.
