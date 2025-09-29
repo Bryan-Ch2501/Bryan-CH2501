@@ -1,27 +1,42 @@
-<h1 align="center">Hola , Soy Bryan Chavarría <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
-<p><img align="right" src="https://github.com/Bryan-Ch2501/Animaciones-e-iconos/blob/main/animation_500_kxa883sd.gif" alt="Bryan-Ch2501" /></p>
+# 👋 Hola, soy Bryan Chavarría
 
-<br>
+🎯 **Ingeniero en Sistemas | Desarrollador Fullstack | Entusiasta de la tecnología**
 
-<p align="right"> <h3>Profile Views :</h3> <img src="https://komarev.com/ghpvc/?username=Bryan-Ch2501&label=Profile%20views&color=A6AEBF&style=flat"
-    alt="Bryan-Ch2501" /> 
-  </p>
+---
 
-<br>
+## 🚀 Sobre mí
+- 💻 Apasionado por el desarrollo de **aplicaciones web y de escritorio**.  
+- 📚 En constante aprendizaje de nuevas tecnologías.  
+- 🎯 Objetivo: construir soluciones escalables, elegantes y funcionales.  
 
-## Sobre mi 👨‍💻
+---
 
-- 🌱 Actualmente estoy aprendiendo desarrollo de aplicaciones móviles con lenguajes como **C#**, **Python**, **SQL** y frameworks como **WPF** y **WinUI**.
-- 🚀 Mi aspiración es convertirme en un experto en **Ciberseguridad**, un **Analista de Datos** o un **Desarrollador de Escritorio**.
-- ⚡ Dato curioso: ¡El café y los libros📚 son mis combustibles para la vida!
+## 🛠️ Tecnologías y Herramientas
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,tailwind,git,github,linux,cpp,cs,dotnet,mysql,postgres,sqlite" />
+</p>
 
+---
 
-## Habilidades y Tecnologías
-![C#](https://img.shields.io/badge/C%23-9457EB?style=for-the-badge&logo=c-sharp&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![WPF](https://img.shields.io/badge/WPF-9457EB?style=for-the-badge&logo=wpf&logoColor=white)
-![WinUI](https://img.shields.io/badge/WinUI-FFFFFF?style=for-the-badge&logo=winui&logoColor=005F9E)
+## 📌 Proyectos Destacados
+✨ Aquí iré colocando mis proyectos más importantes a medida que los publique en GitHub:
 
+- 🔹 **[Sistema de Gestión de Inventario](#)** – WinUI + .NET + SQL  
+- 🔹 **[WebApp de Tareas y Proyectos](#)** – React + Node.js + Tailwind  
+- 🔹 **[Portafolio Web](#)** – Vite + React  
 
-<br>
+---
+
+## 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=TU-USUARIO&show_icons=true&theme=tokyonight" alt="GitHub Stats" width="48%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TU-USUARIO&theme=tokyonight" alt="GitHub Streak" width="48%"/>
+</p>
+
+---
+
+## 🌐 Conecta conmigo
+- 📧 Email:
+- 💼 LinkedIn: 
+- 🌍 Portafolio (Próximamente)
+
