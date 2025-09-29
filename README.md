@@ -13,7 +13,7 @@
 
 ## 🛠️ Tecnologías y Herramientas
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,tailwind,git,github,linux,cpp,cs,dotnet,mysql,postgres,sqlite" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,tailwind,git,github,linux,cs,dotnet,mysql,postgres" />
 </p>
 
 ---
